@@ -1,3 +1,15 @@
+# v0.0.2 (Fri Dec 08 2023)
+
+#### ⚠️ Pushed to `main`
+
+- [Develop] sonarqube ([@lucaL99](https://github.com/lucaL99))
+
+#### Authors: 1
+
+- [@lucaL99](https://github.com/lucaL99)
+
+---
+
 # v0.0.1 (Fri Dec 08 2023)
 
 :tada: This release contains work from a new contributor! :tada:
